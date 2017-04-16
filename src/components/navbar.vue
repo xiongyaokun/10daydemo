@@ -32,7 +32,7 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss" scoped="" type="text/css">
 #navbar {
   position: relative;
   width: 100%;

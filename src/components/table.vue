@@ -33,7 +33,7 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped>
+<style lang="scss" scoped="" type="text/css">
 table {
   width: 400px;
   border-spacing: 0;
